@@ -25,7 +25,7 @@
   "homepage": "http://cognito.dbroadhurst.net",
   "license": "MIT",
   "dependencies": {
-    "aws-cognito-promises": "^1.0.4",
+    "aws-cognito-promises": "git+https://github.com/infin1t3/aws-cognito-promises.git",
     "babel-polyfill": "^6.23.0",
     "react": "^16.2.0",
     "redux-saga": "^0.15.6"
